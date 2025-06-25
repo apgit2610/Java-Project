@@ -16,11 +16,17 @@ A full-featured Java-based Virtual Classroom application built with Swing GUI, s
 📂 Project Structure
 
 Virtual_Classroom/
+
 ├── src/                      # Java source files
+
 ├── database/                 # SQL database schema
+
 ├── build.xml                 # Ant build file
+
 ├── manifest.mf               # Manifest file
+
 └── README.md                 # Project documentation
+
 
 🛠️ Getting Started
 ### Prerequisites
