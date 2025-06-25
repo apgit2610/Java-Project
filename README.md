@@ -39,7 +39,7 @@ Virtual_Classroom/
    - Choose Build then Run.
 🗄️ Database Setup
 1. Create the Database:
-```sql
+
 CREATE DATABASE virtual_classroom;
 USE virtual_classroom;
 
@@ -64,20 +64,18 @@ CREATE TABLE videos (
 
 INSERT INTO users (username, password, role)
 VALUES ('admin', '1234', 'admin');
-```
+
 
 2. Update Connection Settings:
 Modify the database connection code in your Java files to match your local MySQL credentials:
-```java
+java
 String url = "jdbc:mysql://localhost:3306/virtual_classroom";
 String user = "your_mysql_username";
 String password = "your_mysql_password";
-```
+
 📌 Notes
 - Ensure your MySQL server is running before launching the application.
 - For optimal performance, run the server component first before connecting clients.
 - GUI may differ slightly based on your OS and screen resolution.
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-📜 License
-This project is licensed under the MIT License.
