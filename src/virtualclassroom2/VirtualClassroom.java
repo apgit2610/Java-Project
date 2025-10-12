@@ -4,11 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
 import GUI.*;
-/**
- *
- * 
- * @author anant
- */
+
 
 public class VirtualClassroom extends JFrame {
     private JTextField usernameField;
