@@ -4,10 +4,7 @@ import java.io.*;
 import javax.swing.*;
 import java.sql.*;
 import java.util.ArrayList;
-/**
- *
- * @author anant
- */
+
 
 class ViewLecturesForm extends JFrame {
     public ViewLecturesForm() {
