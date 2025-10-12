@@ -2,10 +2,7 @@ package GUI;
 import javax.swing.*;
 import java.awt.*;
 import java.sql.*;
-/**
- *
- * @author anant
- */
+
 
 class RegistrationForm extends JFrame {
     private JTextField usernameField;
