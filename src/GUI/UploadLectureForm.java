@@ -2,10 +2,6 @@ package GUI;
 import javax.swing.*;
 import java.io.*;
 import java.sql.*;
-/**
- *
- * @author anant
- */
 
 class UploadLectureForm extends JFrame {
     public UploadLectureForm() {
