@@ -2,11 +2,6 @@ package GUI;
 
 import java.awt.*;
 import javax.swing.*;
-
-/**
- *
- * @author anant
- */
 public class StudentDashboard extends JFrame {
     public StudentDashboard() {
         setTitle("Student Dashboard");
