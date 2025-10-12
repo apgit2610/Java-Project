@@ -1,11 +1,6 @@
 package GUI;
 import javax.swing.*;
 import server.WhiteboardServer;
-/**
- *
- * @author anant
- */
-
 
 public class TeacherDashboard extends JFrame {
     public TeacherDashboard() {
