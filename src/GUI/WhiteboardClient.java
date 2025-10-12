@@ -1,8 +1,5 @@
 package GUI;
-/**
- *
- * @author anant
- */
+
 import java.awt.*;
 import java.io.*;
 import java.net.*;
