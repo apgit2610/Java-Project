@@ -3,11 +3,6 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 
-/**
- *
- * @author anant
- */
-
 class ClientHandler extends Thread {
     private Socket client;
     private ArrayList<Socket> clients;
